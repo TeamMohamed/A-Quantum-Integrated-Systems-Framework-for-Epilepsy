@@ -1,13 +1,11 @@
-# A Quantum-Integrated Systems Framework for Epilepsy
+A Quantum-Integrated Systems Framework for Epilepsy
 
-## Author:
-**Anwar Mohamed**  
+Author:
+Anwar Mohamed  
 Independent Research & Development  
-Email: ecssignalling@gmail.com
+Email: TeamMohamed@proton.me
 
----
-
-## Overview:
+Overview:
 This repository contains the world’s first epilepsy treatment codex integrating:
 - ⚛️ Quantum Biology
 - 🧠 Neurology
@@ -16,22 +14,19 @@ This repository contains the world’s first epilepsy treatment codex integratin
 - 🎯 Time-Specific, Hz-Driven Therapies
 - 📱 App + AI-ready Logic with Cryptic Codex Layering
 
----
 
-## Contents:
+Contents:
 - `Epilepsy_Quantum_WhitePaper_FINAL.pdf` — The full white paper submission.
 - `Epilepsy_Quantum_Visual_Explainer.png` — One-page graphical abstract (reupload needed).
 - `Cover_Letter_IJMS_AnwarMohamed.txt` — Journal submission letter.
 - `Author_Contribution_Conflict_Statement.txt` — Author statement.
 - `README.md` — Timestamped summary and contribution declaration.
 
----
 
-## License:
+License:
 This project is © Anwar Mohamed. Public timestamp for academic and IP proof.  
-Contact: ecssignalling@gmail.com for licensing or collaboration.
+Contact: TeamMohamed for licensing or collaboration.
 
----
 
-## Citation:
-Mohamed, A. *A Quantum-Integrated Systems Framework for Epilepsy.* IJMS Submission, 2024.
+Citation:
+Mohamed, A. A Quantum-Integrated Systems Framework for Epilepsy. IJMS Submission, 2024.
